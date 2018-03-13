@@ -10,6 +10,7 @@ public class Main {
 
         list.add('c');
         list.add("Hello");
+        list.add(20);
 
         System.out.print(list + "\n");
     }

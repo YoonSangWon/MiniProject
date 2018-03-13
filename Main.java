@@ -9,6 +9,7 @@ public class Main {
         ArrayList list = new ArrayList();
 
         list.add('c');
+        list.add("Hello");
 
         System.out.print(list + "\n");
     }
